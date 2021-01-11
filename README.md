@@ -19,3 +19,4 @@ A few reminders for myself for how to embrace the growth mindset:
 ## Code 102 Notes
 
 #### Table of Contents
+*[Markdown Notes](markdown.md)
