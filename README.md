@@ -15,8 +15,7 @@ A few reminders for myself for how to embrace the growth mindset:
 3. Use criticism as a tool for growth
 
 ## My Github Portfolio
-*You can visit my github portfolio at this link.*
-**https://github.com/peymade**
+*You can visit my github portfolio at this **[link](https://github.com/peymade}**
 
 ## Code 102 Notes
 
