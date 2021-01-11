@@ -1,3 +1,5 @@
+![](lite.png)
+
 # Welcome to Reading Notes
 
 Hi there! My name is Peyton. I am a college student with a passion for problem solving, music, and design, and I am starting my journey into the world of coding. 
