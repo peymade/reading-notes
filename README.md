@@ -21,3 +21,4 @@ A few reminders for myself on how to embrace the growth mindset:
 
 #### Table of Contents
 * [Markdown Notes](markdown.md)
+* [Module 2 Reading](module_2.md)
