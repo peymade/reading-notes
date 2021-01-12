@@ -62,4 +62,6 @@ Pros | Cons
 Happiness | Less functionality
 More time | Harder work
 
+Finally, if you want to be able to make code "copy-able" by readers, like I have on this page, add three acute symbols on either side of the code.
+
 [Home](README.md)
