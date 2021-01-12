@@ -22,30 +22,27 @@ A command line is a responsive text interface. It will give a user prompts, and 
 -	Use the tab key to have the terminal auto-complete the line
 
 ### Basic Commands
-```pwd``` = print working directory
-	Tells the user what the current working directory they are in is
-```Cd ___``` = change directory
-```Cd ..``` = move up to parent directory
-```Cd\ (enter, enter)``` = moves to root directory
-
-```Ls``` = display the names of the files in current directory
-```Ls -a``` = displays hidden files and directories as well as shown ones
-
-```Mkdir ___``` = make directory
-
-```/``` = root directory, within which all other directories exist, branching down like a tree
+* ```pwd``` = print working directory
+* ```cd ___``` = change directory
+* ```cd ..``` = move up to parent directory
+* ```cd\ (enter, enter)``` = moves to root directory
+* ```ls``` = display the names of the files in current directory
+* ```ls -a``` = displays hidden files and directories as well as shown ones
+* ```mkdir ___``` = make directory
+* ```/``` = root directory, within which all other directories exist, branching down like a tree
 
 ### Paths
 
 Two types- **absolute & relative**
 
 **Absolute** -> The location of a file or directory in relation to the root 
-	Example: /home/documents/game
+	*Example*: /home/documents/game
 An absolute path with yield the same results regardless of current location
 
 **Relative** -> The location of a file in relation to where one currently is
-	Example: being in/home/documents and running ls Game
-Relative is more general, less specific to the user than an absolute command
+	*Example*: being in/home/documents and running `ls game`
+
+### Further Notes and Examples
 
 ```~``` This can be written in place of the text that makes up the “home” directory    
 *Example*: /users/Peyton/Documents = ~/Documents
@@ -53,7 +50,7 @@ Relative is more general, less specific to the user than an absolute command
 ```.``` By using “ls .” one can see the contents of the current directory. Make sure to add a space before the dot. 
 
 ```..``` Two dots will reference the parent directory.  
-*Example*: The command “cd ..” will move one back up to the previous directory, and the command “ls ../../” will list the contents of the directory that is up, 2 hierarchical steps. 
+*Example*: The command `cd ..` will move one back up to the previous directory, and the command `ls ../../` will list the contents of the directory that is up, 2 hierarchical steps. 
 
 * ```ls ~/Documents```
 * ```ls ./Documents```
