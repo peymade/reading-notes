@@ -15,6 +15,8 @@ This website will be a place keep track of the notes I compile during my classes
 * [Markdown](markdown.md)
 * [Terminal](module_2.md)
 * [Intro to Git](module_3.md)
+* [HTML 5 Basics](module_4.md)
+
 
 
 
