@@ -32,17 +32,14 @@ Content, Prioritize, Organize.
 
 Assume readers will be skimming each page. Help them find the important details. 
 
-## Chapter 1: HTML Basics
-
 ## Chapter 17: HTML Layout
 
 ### HTML5
 
-HTML5 has a few differences. For example instead of using div elements, HTML5 offers new names for different parts of a web page. 
+HTML5 has a few differences. For example instead of using div elements, HTML5 offers new names for different parts of a web page. Just to name a few-
 * article
 * nav
 * aside
-Just to name a few. 
 
 ### Headers & Footers
 
