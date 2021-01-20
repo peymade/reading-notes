@@ -5,9 +5,20 @@
 ### Who is the site for?
 
 Identify the target audience. 
-* What are their goals? 
+* What are their goals? How familiar are they with websites?
 * Does my website provide entertainment or is it a tool to help them accomplish a task? 
+
+All in service of this question:
 * How do I present the information in a way relevant to *them*?
+
+The answer to these questions helps build a **site map**
+
+Site maps can be build using **card sorting**. 
+* Place pieces of information on sheets of paper and organize them into related sections
+* Organize it like the branches of a tree
+* Start with "HOME" at top, then primary nav links
+
+**Wireframes** are page outlines without all the content. It can be good to present to a client before going and building the site. 
 
 ### Communicating a Message
 
@@ -16,6 +27,10 @@ Content, Prioritize, Organize.
 * Widdle down the content and make it clear and accesible to the target audience. 
 * Prioritize the key messages, terms, buttons, etc.
 * Organize the content into related sections, to make it easier to digest
+
+**Size**, **color**, and **style** are also helpful tools to make sure the reader finds the important information. 
+
+Assume readers will be skimming each page. Help them find the important details. 
 
 ## Chapter 1: HTML Basics
 
@@ -100,4 +115,27 @@ To help older browsers recognize the new elements, add these things:
 **HTML**
 `<!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->`
 
+## Chapter 8: Extra Markup
+
+
+Begin each webpage with a **DOCTYPE** declaration: `<!DOCTYPE html>`
+
+**Comment format**: `<!-- COMMENT -->
+
+**ID Attribute**: place `id=""` at the end of the element opening bracket. It must begin with a letter or an underscore
+This attribute can be used on any element. Helpful for styling purposes. 
+
+**Class Attribute**: place `class=""` at the end of the element opening bracket. Things can have more than one class tag. 
+
+**Block Elements**: elements like `<h1><p><ul> and <li>` all start on new lines automatically. 
+
+**Inline Elements**: these elements do not automatically start on a new line. Things like `<a><b><em><img>`
+
+**Div Elements**: This allows for grouping of different elements. You must give it an id with a name. This is useful for CSS styling. 
+
+**Span**: Used to group inline elements to make styling easier. `<span>` There also must be a class or id assigned to it like with a div element. 
+
+**iframe** A window into another webpage. Must have width and height specified, and a `src`
+
+**Escape Characters** For multiple characters like quotation marks and angled brackets, different combinations of characters need to replace them. Look this up for a complete list. 
 
