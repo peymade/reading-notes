@@ -88,3 +88,28 @@ Booleans can be for-
 1. Do not name different variables as same thing w/different capitalization.
 1. Use semantic names.
 1. Use camelCase.
+
+
+## How Computers Work
+
+- To be a computer, it must take input, store the inforamtion, process it, and output it. 
+- Input devices take information from the physical world and convert it to binary
+- Memory on a machine stores the information for later access
+- A CPU, a central processing unit, calculated information
+- Output is this binary information converted to a physical output
+
+------
+
+- Bit= The smallest piece of information a computer can store. When there are only two options, like on/off, yes/no, true/false, or 0/1. 
+- All types of information can be stored in binary. More wires -> larger numbers
+- Wires can feed into circuits that do simple calculations. When circuts are placed side by side, functionality increases.
+
+------
+
+- **CPU** = Master chip that controls the computer
+- Circuits within the CPU perform basic math and logic, and store and share information
+- Operating Systems control the software on a computer. When running multiple programs, the OS switches between them quickly. 
+
+
+
+
