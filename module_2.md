@@ -30,6 +30,7 @@ A command line is a responsive text interface. It will give a user prompts, and 
 * ```ls -a``` = displays hidden files and directories as well as shown ones
 * ```mkdir ___``` = make directory
 * ```/``` = root directory, within which all other directories exist, branching down like a tree
+* `cp` = making a copy of a file and moving it somewhere `cp ~/Current Location/File ~/New location`
 
 ### Paths
 
