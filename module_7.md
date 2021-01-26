@@ -1,4 +1,4 @@
-# Module 7 Reading 43.32
+# Module 7 Reading 
 
 ## Pages 1-24 (Javascript)
 
