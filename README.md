@@ -18,6 +18,7 @@ This website will be a place keep track of the notes I compile during my classes
 * [HTML 5 Basics](module_4.md)
 * [CSS Color](module_5.md)
 * [JavaScript Basics](module_6.md)
+* [Functions](module_7.md)
 
 
 
