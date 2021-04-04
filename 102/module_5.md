@@ -49,4 +49,4 @@ By adding the letters `hsla` or `hsl` before a set of numbers following the back
 1. L = Lightness = a percent between 0% and 100% (0 is white, 100 is black)
 1. A = Opacity = a number between 0 and 1.0 (0 is transparent, 100 is solid)
 
-[Home](README.md)
+[Home](https://peymade.github.io/reading-notes/)

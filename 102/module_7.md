@@ -131,4 +131,4 @@ var gardenTwo = calculateArea(8, 8);
 
 The function is being named "calculateArea" and the parameters are width and height. The function calculates the area, and returns this value. calculateArea then equals area. The variables of gardenOne and gardenTwo enter data for the parameters to use to calculate the area. 
 
-[Home](README.md)
+[Home](https://peymade.github.io/reading-notes/)

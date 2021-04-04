@@ -2,4 +2,4 @@
 
 ### This page will be filled in with notes as the class progresses.
 
-[Home](README.md)
+[Home](https://peymade.github.io/reading-notes/)

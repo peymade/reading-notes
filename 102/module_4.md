@@ -136,4 +136,4 @@ This attribute can be used on any element. Helpful for styling purposes.
 
 **Escape Characters** For multiple characters like quotation marks and angled brackets, different combinations of characters need to replace them. Look this up for a complete list. 
 
-[Home](README.md)
+[Home](https://peymade.github.io/reading-notes/)

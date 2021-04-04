@@ -64,4 +64,4 @@ More time | Harder work
 
 Finally, if you want to be able to make code "copy-able" by readers, like I have on this page, add one acute symbol on either side of the code.
 
-[Home](README.md)
+[Home](https://peymade.github.io/reading-notes/)

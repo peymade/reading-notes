@@ -110,7 +110,6 @@ Booleans can be for-
 - Circuits within the CPU perform basic math and logic, and store and share information
 - Operating Systems control the software on a computer. When running multiple programs, the OS switches between them quickly. 
 
-[Home](README.md)
-
+[Home](https://peymade.github.io/reading-notes/)
 
 

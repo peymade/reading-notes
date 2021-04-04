@@ -59,4 +59,4 @@ Loops check conditions, and if the condition evaluated to true, the code runs an
 
 This while loop checks the condition continuously, until i = 10, and then it stops printing out i * 5, and the value of that expression. 
 
-[Home](README.md)
+[Home](https://peymade.github.io/reading-notes/)

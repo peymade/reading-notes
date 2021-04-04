@@ -74,6 +74,5 @@ This command lists the items in the root directory, meaning it is an absolute pa
 * The command `file [path]` can be used to see what type of file something is.  
 * Linux will not recognize files names with spaces. Use ‘’ quotes or a \ backslash before the space
 
-[Home](README.md)
-
+[Home](https://peymade.github.io/reading-notes/)
 
