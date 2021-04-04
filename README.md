@@ -39,7 +39,7 @@ This website is a place keep track of the notes I compile during my classes with
 * [Reading 13](201/reading_13.md)
 * [Reading 14](201/reading_14.md)
 * [Reading 15](201/reading_15.md)
-*
+
 
 
 

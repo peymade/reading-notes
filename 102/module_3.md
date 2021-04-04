@@ -85,4 +85,4 @@ Push these changes to a remote repository:
 * Push = git push origin main
 
 
-[Home](reading-notes/README.md)
+[Home](https://peymade.github.io/reading-notes/)
