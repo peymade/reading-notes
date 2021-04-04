@@ -8,7 +8,7 @@ This website is a place keep track of the notes I compile during my classes with
 ## My Github Portfolio
 *You can visit my github portfolio at this **[link](https://github.com/peymade).***
 
-## Code 102 Notes
+## Code 102 Reading Notes
 
 #### Table of Contents
 * [Growth Mindset](102/growth_mindset.md)
@@ -20,7 +20,7 @@ This website is a place keep track of the notes I compile during my classes with
 * [JavaScript Basics](102/module_6.md)
 * [Functions](102/module_7.md)
 
-## Code 201 Notes
+## Code 201 Reading Notes
 
 #### Table of Contents
 
