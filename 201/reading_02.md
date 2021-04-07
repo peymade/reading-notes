@@ -1,6 +1,6 @@
 # Reading 2
 
-## Duckett HTML
+## Jon Duckett HTML Book
 
 ## Chapter 2: Text
 

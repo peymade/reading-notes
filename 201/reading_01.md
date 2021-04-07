@@ -1,6 +1,6 @@
 # Reading 1
 
-## Duckett HTML 
+## Jon Duckett HTML Book 
 
 ## Chapter 1: Structure & 17: HTML5 Layout
 
