@@ -45,7 +45,7 @@ The *post method* is for long forms or sensitive information.
 
 **Submit Buttons** have the attribute `type="submit"` and send the data in the field to the server. 
 
-### Other Noteds
+### Other Notes
 - The button element can give you more control over apperance of buttons
 - Use the `<label></label>` tag to enclose the input element to create a label for the box that will appear on the screen. Example: `<label>Greeting: <input type="text" name="greeting"/></label>`
 - Group together fields with `<fieldset></fieldset>`
