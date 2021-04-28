@@ -67,6 +67,60 @@ You can add @keyframes to transitions, add a play state to pause and resume, and
 
 
 
+~~~JavaScript
+// Prototype function to play each note and store in storage
+Note.prototype.handleClick = function() {
+  if (recording === true) {
+    recordingArray.push(this.audioID);
+    let recordedStorage = JSON.stringify(recordingArray);
+    localStorage.setItem(`storedKeys`, recordedStorage);
+  }
+  let x = document.getElementById(this.audioID);
+  x.load();
+  x.play();
+
+  this.currentButton.classList.add('active');
+  x.addEventListener('mouseup', this.stopActive.bind);
+  }
+
+  
+Note.prototype.stopActive = function() {
+  this.currentButton.classList.remove('active');
+}
+
+// Create constructor function to hold the name of the note, the audio ID, the mp3 path, and the button name
+function Note(name){
+  this.name = name;
+  this.audioID = name + 'Note';
+  this.normalMP3 = 'notes/' + name + '.mp3';
+  this.buttonName = 'button' + name;
+
+  
+
+  // Point to the button on the HTML 
+  this.currentButton = document.getElementById(this.buttonName);
+  this.currentButton.addEventListener('click', this.handleClick.bind(this));
+
+
+  console.log(this);
+  allNotes.push(this);
+}
+
+let allNotes = [];
+
+new Note('A3');
+new Note('AS3');
+new Note('B3');
+new Note('C3');
+new Note('CS3');
+new Note('D3');
+new Note('DS3');
+new Note('E3');
+new Note('F3');
+new Note('FS3');
+new Note('G3');
+new Note('GS3');
+~~~
 
 
 [Home](https://peymade.github.io/reading-notes/)
