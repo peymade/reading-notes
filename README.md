@@ -45,7 +45,7 @@ This website is a place keep track of the notes I compile during my classes with
 
 #### Table of Contents
 
-* [Pre-Work: React](301/pre-work.md)
+* [Pre-Work -- React](301/pre-work.md)
 * [Reading 1](301/reading_01.md)
 * [Reading 2](301/reading_02.md)
 * [Reading 3](301/reading_03.md)
